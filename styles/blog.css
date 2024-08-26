@@ -1,9 +1,14 @@
 h3
 {
-
-color: blueviolet;
+color: red;
 background-color: aqua;
 text-align: center;
+border: 3px dashed blue;
+margin: 1px;
+padding: 1px;
+width: 150px;
+
+
 }
 
 p
