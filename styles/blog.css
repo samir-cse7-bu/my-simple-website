@@ -1,0 +1,21 @@
+h3
+{
+
+color: blueviolet;
+background-color: aqua;
+text-align: center;
+}
+
+p
+{
+    text-align: justify;
+    color: brown;
+    background-color: aquamarine;
+    border: 2px solid red;
+    border-radius: 2px;
+    margin: 5px;
+    padding: 5px;
+    height: 180px;
+    width: 150px;
+    
+}
